@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color: #ffffff;
+    color: black;
+}
+.gradient-text {
+    background: linear-gradient(to right, #3b82f6, #34d399); /* Replace these colors with your desired gradient */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+::-webkit-scrollbar{
+    cursor: pointer;
+    width: 6px;
+}
+::-webkit-scrollbar-track{
+    background: #ffffff;
+}
+::-webkit-scrollbar-thumb{
+    background: black;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #555;
+}
