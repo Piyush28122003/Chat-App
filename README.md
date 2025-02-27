@@ -20,16 +20,16 @@ Chat App is a real-time messaging application built using the MERN stack and Soc
 ## Installation and Setup  
 
 ### Backend Setup  
-Navigate to the backend folder:  
-bash
-cd chat-backend
-npm install
-npm start
+Navigate to the backend folder:\n 
+bash\n
+cd chat-backend\n
+npm install\n
+npm start\n
 
 
 ### Frontend Setup  
-Navigate to the backend folder:  
-bash
-cd ChatApp
-npm install
-npm run dev
+Navigate to the backend folder:\n  
+bash\n
+cd ChatApp\n
+npm install\n
+npm run dev\n
